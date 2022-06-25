@@ -1,0 +1,8 @@
+bop -> diganti jadi overhead (done)
+produksi -> tambah data nya dibenerin pas overhead (done)
+produksi -> tambahkan field untuk total(q_bp * total) nya (done)
+
+target costing -> produk nya dari table produk (perkiraan harga jual & laba yg diinginkan diiinput manual)
+
+bop = bahan penolong + overhead
+bb = bahan baku
